@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/kcarter/work/Ivory/ivory-model-check'
+let g:netrw_dirhist_2='/home/kcarter/scrap/haskell/poly-categories/src/Control/Categorical'
+let g:netrw_dirhist_3='/home/kcarter/scrap/haskell/poly-categories/src/Control/Category/Cartesian'

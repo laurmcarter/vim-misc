@@ -1,0 +1,3 @@
+unicode-0.10.vmb: call delete('/home/kylcarte/.vim/plugin/unicode.vim')|call delete('/home/kylcarte/.vim/autoload/unicode.vim')|call delete('/home/kylcarte/.vim/doc/unicode.txt')
+SyntaxRange-1.01.vmb: call delete('/home/kcarter/.vim/autoload/SyntaxRange.vim')|call delete('/home/kcarter/.vim/plugin/SyntaxRange.vim')|call delete('/home/kcarter/.vim/doc/SyntaxRange.txt')
+mark-2.8.2.vmb: call delete('/home/kcarter/.vim/bundle/mark/autoload/mark.vim')|call delete('/home/kcarter/.vim/bundle/mark/autoload/mark/palettes.vim')|call delete('/home/kcarter/.vim/bundle/mark/plugin/mark.vim')|call delete('/home/kcarter/.vim/bundle/mark/doc/mark.txt')
